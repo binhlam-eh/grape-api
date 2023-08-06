@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This repository aims to provide a practical way to implement grape-api with rails 7.0.
 
-Things you may want to cover:
+Which simulates a book store functionality services that can retrieve batch of books
+or a specific book.
 
-* Ruby version
+Then create a flow of books which describe pick/put actions on
+a bookshelf.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![Alt text](image.png)
