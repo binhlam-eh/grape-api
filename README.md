@@ -9,3 +9,7 @@ Then create a flow of books which describe pick/put actions on
 a bookshelf.
 
 ![Alt text](image.png)
+
+References:
+- https://www.thegreatcodeadventure.com/making-a-rails-api-with-grap/
+- https://medium.com/@clementrollon/build-a-basic-api-with-grape-api-grape-entity-part-1-5d5fa1cf38db
