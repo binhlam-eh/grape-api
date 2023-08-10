@@ -8,6 +8,8 @@ or a specific book.
 Then create a flow of books which describe pick/put actions on
 a bookshelf.
 
+Refer to path `app/api/book_store` to checkout the API implementation.
+
 This repository uses gem `grape-swagger` to document the api endpoints and schemas.
 
 ![Alt text](image.png)
